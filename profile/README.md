@@ -30,5 +30,6 @@
 
 ###  Опубликованные версии приложения 
 - [Frontend+Backend](https://github.com/FirstLiners/Frontend/releases)
-- Последняя доступная на хостинге web версия [только верстка, без логики бэкенда](https://firstliners-anscqfwnt-firstliners.vercel.app)  
+- Последняя доступная на хостинге web версия, данные для входа: Director/Demo
+- [только верстка, без логики бэкенда](https://firstliners-n70wxrgfb-firstliners.vercel.app/)  
 ###  Инструкции по сборке и запуску, а также инфо по стэку технологий смотрите на страницах ([Датасайенс](https://github.com/FirstLiners/DS)), ([Бэкенд](https://github.com/FirstLiners/Backend)) и ([Фронтенд](https://github.com/FirstLiners/Frontend)) соответственно 
